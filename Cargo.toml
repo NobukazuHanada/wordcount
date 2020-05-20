@@ -3,8 +3,13 @@ name = "wordcount"
 version = "0.1.0"
 authors = ["Nobkz <tone.nobukazu@gmail.com>"]
 edition = "2018"
+license = "MIT OR Apache-2.0"
+description = "シンプルな文字、単語、行、の出現頻度を計数機能を提供します。"
+readme = "README.md"
+repository = "https://github.com/NobukazuHanada/wordcount"
+categories = ["command-line-utillities"]
+keywords = ["example", "frequency", "text"]
 
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
 regex = "1.0"
