@@ -1,5 +1,5 @@
 [package]
-name = "bicycle-book-wordcount"
+name = "nobkz-bicycle-book-wordcount"
 version = "0.1.0"
 authors = ["Nobkz <tone.nobukazu@gmail.com>"]
 edition = "2018"

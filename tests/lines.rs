@@ -1,5 +1,5 @@
 use std::io::Cursor;
-use bicycle_book_wordcount::{count, CountOption};
+use nobkz_bicycle_book_wordcount::{count, CountOption};
 
 #[macro_use]
 mod utils;

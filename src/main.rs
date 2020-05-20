@@ -1,7 +1,7 @@
 use std::env;
 use std::fs::File;
 use std::io::BufReader;
-use bicycle_book_wordcount::count;
+use nobkz_bicycle_book_wordcount::count;
 
 fn main() {
     let filename = env::args().nth(1).expect("1 argument FILENAME required");
